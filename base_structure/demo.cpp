@@ -1,10 +1,13 @@
 #include<iostream>  
 #include <limits>
+#include <typeinfo>
  
 using namespace std;  
   
 int main()  
 {  
+    cout << "hello world" << endl;
+
     cout << "type: \t\t" << "************size**************"<< endl;  
     cout << "bool: \t\t" << "所占字节数：" << sizeof(bool);  
     cout << "\t最大值：" << (numeric_limits<bool>::max)();  
@@ -51,5 +54,24 @@ int main()
     cout << "string: \t" << "所占字节数：" << sizeof(string) << endl;  
     // << "\t最大值：" << (numeric_limits<string>::max)() << "\t最小值：" << (numeric_limits<string>::min)() << endl;  
     cout << "type: \t\t" << "************size**************"<< endl;  
+
+    int i =10;
+    // cout << i + type(i)<< endl;
+    float f = static_cast<float>(i); //静态将int类型转换为float类型
+    std::cout << i + typeid(i).name()<< std::endl;
+
+    // class Base {};
+    // class Derived : public Base {};
+    // Base* ptr_base = new Derived;
+    // Derived* ptr_derived = dynamic_cast<Derived*>(ptr_base);//将基本指针转换成派生类指针
+
+    const int i1 = 10;
+    cout << i1 << endl;
+    int& r = const_cast<int&>(i1);  // 常量转换，将const int转换为int
+    cout << r + typeid(r).name() << endl;
+
+    // int i = 10;
+    // float f = reinterpret_cast<float&>(i); // 重新解释将int类型转换为float类型
+
     return 0;  
 }
