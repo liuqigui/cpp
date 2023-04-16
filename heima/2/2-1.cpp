@@ -13,7 +13,7 @@ sizeof关键字(利用sizeof输出数据类型占用内存大小，sizeof(数据
 字符串：char name[] = "helloworld"
 string name = "",#include<string>
 
-布尔类型：true:0,false:0,占用内存为1。
+布尔类型：true:0,false:0,占用内存为1。非0的值都是真。
 */
 #include<iostream>
 #include<string>
@@ -51,8 +51,17 @@ int main(){
     float f2 = 3.14f;
     cin >> f2;
     cout << f2 << endl;
+    int a;
+    cin >> a;
+    cout << a << endl;
+    string str2;
+    cin >> str2;
+    cout << str2 << endl;
+    bool flag = false;
+    cin >> flag;
+    cout << flag << endl;
 
-
+    system("pause");
 
     return 0;
 }
