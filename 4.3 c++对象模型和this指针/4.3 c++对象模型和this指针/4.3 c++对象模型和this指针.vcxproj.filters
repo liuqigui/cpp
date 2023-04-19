@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="对象的初始化与清理.cpp">
+    <ClCompile Include="c++对象模型和this指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
