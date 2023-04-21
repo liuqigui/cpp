@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4.6.3继承中的对象模型", "4.6.3继承中的对象模型\4.6.3继承中的对象模型.vcxproj", "{056B80E1-1B51-4B1A-8770-AD1F19E293C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Debug|x64.ActiveCfg = Debug|x64
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Debug|x64.Build.0 = Debug|x64
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Debug|x86.Build.0 = Debug|Win32
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Release|x64.ActiveCfg = Release|x64
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Release|x64.Build.0 = Release|x64
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Release|x86.ActiveCfg = Release|Win32
+		{056B80E1-1B51-4B1A-8770-AD1F19E293C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFBDA151-3DC5-4697-8870-731DFED2175D}
+	EndGlobalSection
+EndGlobal
