@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3.3类模板中成员函数创建时机", "1.3.3类模板中成员函数创建时机\1.3.3类模板中成员函数创建时机.vcxproj", "{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Debug|x64.ActiveCfg = Debug|x64
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Debug|x64.Build.0 = Debug|x64
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Debug|x86.Build.0 = Debug|Win32
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Release|x64.ActiveCfg = Release|x64
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Release|x64.Build.0 = Release|x64
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Release|x86.ActiveCfg = Release|Win32
+		{997ABBFF-B7D2-44B4-A52C-1CC9AE336BBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0DBBFFE-34AE-4F3C-A35F-DC00BF4557B7}
+	EndGlobalSection
+EndGlobal
