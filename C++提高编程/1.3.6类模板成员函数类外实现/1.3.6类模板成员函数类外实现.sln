@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.3.6类模板成员函数类外实现", "1.3.6类模板成员函数类外实现\1.3.6类模板成员函数类外实现.vcxproj", "{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Debug|x64.ActiveCfg = Debug|x64
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Debug|x64.Build.0 = Debug|x64
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Debug|x86.Build.0 = Debug|Win32
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Release|x64.ActiveCfg = Release|x64
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Release|x64.Build.0 = Release|x64
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Release|x86.ActiveCfg = Release|Win32
+		{3C41521D-8D0B-4DDA-8B7A-BB9E3002D278}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0DB7C1-1E29-4747-BA92-DF9C1FD7956B}
+	EndGlobalSection
+EndGlobal
