@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.5 vector插入和删除", "3.2.5 vector插入和删除\3.2.5 vector插入和删除.vcxproj", "{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Debug|x64.ActiveCfg = Debug|x64
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Debug|x64.Build.0 = Debug|x64
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Debug|x86.ActiveCfg = Debug|Win32
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Debug|x86.Build.0 = Debug|Win32
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Release|x64.ActiveCfg = Release|x64
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Release|x64.Build.0 = Release|x64
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Release|x86.ActiveCfg = Release|Win32
+		{22ECBB8B-8D44-4CC9-AC3E-451277E5A040}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC6EA8F-0E9F-403F-8635-9F34CD12F732}
+	EndGlobalSection
+EndGlobal

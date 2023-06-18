@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33529.398
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.2.6 vector数据存取", "3.2.6 vector数据存取\3.2.6 vector数据存取.vcxproj", "{3479C1C5-7416-4843-8EF2-938F356C312B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Debug|x64.ActiveCfg = Debug|x64
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Debug|x64.Build.0 = Debug|x64
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Debug|x86.Build.0 = Debug|Win32
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Release|x64.ActiveCfg = Release|x64
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Release|x64.Build.0 = Release|x64
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Release|x86.ActiveCfg = Release|Win32
+		{3479C1C5-7416-4843-8EF2-938F356C312B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B27B6473-5EA1-4AAE-9C4B-0649B3735EFD}
+	EndGlobalSection
+EndGlobal
